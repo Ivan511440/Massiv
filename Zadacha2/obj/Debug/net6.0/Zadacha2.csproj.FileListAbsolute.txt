@@ -1,0 +1,15 @@
+C:\Users\ivank\Massiv\Zadacha2\bin\Debug\net6.0\Zadacha2.exe
+C:\Users\ivank\Massiv\Zadacha2\bin\Debug\net6.0\Zadacha2.deps.json
+C:\Users\ivank\Massiv\Zadacha2\bin\Debug\net6.0\Zadacha2.runtimeconfig.json
+C:\Users\ivank\Massiv\Zadacha2\bin\Debug\net6.0\Zadacha2.dll
+C:\Users\ivank\Massiv\Zadacha2\bin\Debug\net6.0\Zadacha2.pdb
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\Zadacha2.csproj.AssemblyReference.cache
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\Zadacha2.AssemblyInfoInputs.cache
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\Zadacha2.AssemblyInfo.cs
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\Zadacha2.dll
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\refint\Zadacha2.dll
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\Zadacha2.pdb
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\Zadacha2.genruntimeconfig.cache
+C:\Users\ivank\Massiv\Zadacha2\obj\Debug\net6.0\ref\Zadacha2.dll
